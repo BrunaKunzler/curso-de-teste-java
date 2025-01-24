@@ -1,4 +1,4 @@
-package Fundamentos;
+package Fundamentos.Operadores;
 
 public class DesafiosAritieticos {
     public static void main(String[] args) {
